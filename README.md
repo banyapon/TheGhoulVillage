@@ -21,9 +21,9 @@ Players find themselves trapped in a village haunted by ghouls. To escape, they 
 ## Josephus Problem
 **The Josephus Problem** is a mathematical puzzle where n people are standing in a circle and counting around them from a certain point until every kth person is eliminated. The last person remaining is the "survivor".
 
-![How Josephus Problem Work.](https://img.itch.zone/aW1nLzE4MTU1MDUwLnBuZw==/original/nt0NQ6.png)
+![How Josephus Problem Work.](https://img.itch.zone/aW1hZ2UvMzAzNDgwNS8xODE1NTEwNS5wbmc=/original/D%2FQm%2BP.png)
 
-![How Josephus Problem Work.](https://img.itch.zone/aW1nLzE4MTU1MDUxLnBuZw==/original/M6qatu.png)
+![How Josephus Problem Work.](https://img.itch.zone/aW1hZ2UvMzAzNDgwNS8xODE1NTEwNi5wbmc=/original/gHATC9.png)
 
 ## Mathematical Representation:
 Let **f(n, k)** be the position of the survivor when there are *n* people initially and you count *k* people each time.
